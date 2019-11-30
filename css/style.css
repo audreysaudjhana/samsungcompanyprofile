@@ -1,0 +1,35 @@
+li {
+	color: #FFF;
+}
+
+.jumbotron jumbotron-fluid{
+	padding-top: 120px;
+}
+
+#about-us{
+	padding-top: 120px; 
+}
+
+.row{
+	padding: 60px 0;
+}
+
+footer{
+	color: #FFF;
+	background-color: #134ead;
+	bottom: 0;
+	position: relative;
+	width: 100%;
+	min-height: 40px; 
+}
+
+i{
+	display: inline-block;
+	margin: 5px 10px;
+}
+
+img{
+	border-radius: 20px;
+	margin: 20px; 
+}
+

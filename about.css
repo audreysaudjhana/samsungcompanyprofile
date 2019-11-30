@@ -1,0 +1,24 @@
+
+.jumbotron{
+	background-image: url(1.jpg)
+}
+.jumbotron h1,h6 {
+	color: white;
+}
+.history{background-color:black;)
+
+}
+.history{
+	color:white;
+	font-weight: bold;}
+.footer{background: black;
+
+font-weight: 800;
+}
+.footer{text-decoration: underline;
+text-transform: uppercase;
+}
+.footer{color: blue;}
+.row {
+	text-align:center;
+}
